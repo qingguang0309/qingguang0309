@@ -20,7 +20,6 @@
 
 - 🎓 **PhD candidate at Peking University** (2025–), working on **AI for Science**.
 - 🤖 **Core member of the KeenData team** — I adapt and optimize the open-source **MiroFlow** framework; the resulting **Keen AgenticOS** ranks **#1 on the [GAIA leaderboard](https://huggingface.co/spaces/gaia-benchmark/leaderboard)**.
-- 🧪 Using **Bayesian optimization + LLM literature reasoning** to design CO₂-capture materials.
 - 🌱 Interested in agents that are reliable, auditable and honest about what they know.
 
 ## 🏆 #1 on GAIA
