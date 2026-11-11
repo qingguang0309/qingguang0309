@@ -41,6 +41,15 @@ I adapted the open-source [MiroFlow](https://github.com/MiroMindAI/MiroFlow) res
 
 Also: a launch gate and run guard for reliable long runs, multi-model routing (Claude · GPT · Kimi · Gemini), a deterministic output layer, and benchmark-integrity filters. → [**MiroFlow_GAIA_Keendata**](https://github.com/qingguang0309/MiroFlow_GAIA_Keendata)
 
+## 🧭 Education & experience
+
+| | Organization | Role | Period |
+| :-: | :-- | :-- | :-- |
+| <img src="https://qingguang0309.github.io/assets/logos/pku.svg" width="36" alt="Peking University" /> | **Peking University** | PhD Candidate · AI for Science | 2025.09&nbsp;–&nbsp;present |
+| <img src="https://qingguang0309.github.io/assets/logos/keendata.png" width="36" alt="KeenData" /> | **KeenData** | Intern · LLM research agents for the GAIA benchmark | 2026.08&nbsp;–&nbsp;present |
+| <img src="https://qingguang0309.github.io/assets/logos/decarbon.png" width="36" alt="DeCarbon Tech" /> | **[DeCarbon Tech](https://de-carbon.com.cn/about.html)** | Intern · AI for CO₂-capture materials: [BO4DAC](https://github.com/qingguang0309/BO4DAC) and [BO4Geopolymer](https://github.com/qingguang0309/BO4Geopolymer) | 2025.04&nbsp;–&nbsp;2026.10 |
+| <img src="https://qingguang0309.github.io/assets/logos/sdu.svg" width="36" alt="Shandong University" /> | **Shandong University** | Undergraduate studies | 2021.09&nbsp;–&nbsp;2025.06 |
+
 ## 📌 Projects
 
 | Project | What it does |
